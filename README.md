@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bhavyaahuja493/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

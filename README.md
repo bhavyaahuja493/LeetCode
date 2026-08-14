@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/0029-divide-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavyaahuja493/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/bhavyaahuja493/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/bhavyaahuja493/LeetCode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/bhavyaahuja493/LeetCode/tree/master/0577-employee-bonus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

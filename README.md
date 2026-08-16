@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/bhavyaahuja493/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/bhavyaahuja493/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/bhavyaahuja493/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/1148-article-views-i) |
 ## Bit Manipulation
 |  |
 | ------- |

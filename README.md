@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/bhavyaahuja493/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/bhavyaahuja493/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/bhavyaahuja493/LeetCode/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/bhavyaahuja493/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/bhavyaahuja493/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/bhavyaahuja493/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/bhavyaahuja493/LeetCode/tree/master/0596-classes-with-at-least-5-students) |

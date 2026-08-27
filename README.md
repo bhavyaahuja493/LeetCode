@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/bhavyaahuja493/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/bhavyaahuja493/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/1148-article-views-i) |
 | [1667-fix-names-in-a-table](https://github.com/bhavyaahuja493/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/bhavyaahuja493/LeetCode/tree/master/1683-invalid-tweets) |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/0029-divide-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavyaahuja493/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavyaahuja493/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Counting
 |  |
 | ------- |

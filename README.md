@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyaahuja493/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

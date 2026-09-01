@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyaahuja493/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/bhavyaahuja493/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/bhavyaahuja493/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |

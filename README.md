@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyaahuja493/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavyaahuja493/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavyaahuja493/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |

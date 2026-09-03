@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/bhavyaahuja493/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bhavyaahuja493/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

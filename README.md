@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyaahuja493/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavyaahuja493/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/bhavyaahuja493/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |

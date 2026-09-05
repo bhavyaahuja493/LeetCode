@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyaahuja493/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bhavyaahuja493/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhavyaahuja493/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/bhavyaahuja493/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/bhavyaahuja493/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/bhavyaahuja493/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bhavyaahuja493/LeetCode/tree/master/0118-pascals-triangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhavyaahuja493/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

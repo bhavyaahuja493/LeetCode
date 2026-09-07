@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/bhavyaahuja493/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavyaahuja493/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyaahuja493/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/bhavyaahuja493/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/bhavyaahuja493/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavyaahuja493/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavyaahuja493/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -79,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/bhavyaahuja493/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhavyaahuja493/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavyaahuja493/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/bhavyaahuja493/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyaahuja493/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bhavyaahuja493/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/bhavyaahuja493/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |

@@ -4,7 +4,7 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
         for(int i=0;i<nums.length;i++){
         if(nums[i]==target){
-        list.add(i);
+        list.add(i);//index dlna hai agr he toh
     }}
     return list;
 

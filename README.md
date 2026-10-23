@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavyaahuja493/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/bhavyaahuja493/LeetCode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavyaahuja493/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3870-count-commas-in-range](https://github.com/bhavyaahuja493/LeetCode/tree/master/3870-count-commas-in-range) |

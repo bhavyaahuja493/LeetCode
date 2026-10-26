@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavyaahuja493/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhavyaahuja493/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bhavyaahuja493/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyaahuja493/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyaahuja493/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/bhavyaahuja493/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavyaahuja493/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhavyaahuja493/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhavyaahuja493/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bhavyaahuja493/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/bhavyaahuja493/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/bhavyaahuja493/LeetCode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/bhavyaahuja493/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/bhavyaahuja493/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bhavyaahuja493/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Database
 |  |
 | ------- |
